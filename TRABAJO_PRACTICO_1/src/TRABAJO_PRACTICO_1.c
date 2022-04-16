@@ -38,7 +38,7 @@ int main(void) {
 	int flagResultadosCalculados = -1;
 
 	do {
-		printf("\n ================================================== \n");
+		printf("\n================================================== \n");
 		printf("\t \t MENÚ PRINCIPAL \n");
 		printf("================================================== \n \n");
 		printf("1) Ingresar los Kilómetros (km = %.2f) \n",

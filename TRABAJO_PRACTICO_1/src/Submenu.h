@@ -12,6 +12,13 @@
 #include <stdlib.h>
 #include "Input.h"
 
+/**
+ * @fn void SubMenu(float*, float*)
+ * @brief  Esta función muestra el submenú
+ *
+ * @param precioAerolineas
+ * @param precioLatam
+ */
 void SubMenu(float *precioAerolineas, float *precioLatam);
 
 #endif /* SUBMENU_H_ */
